@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Eleo2000
-- 👀 I’m interested in animation
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on Emit
+- 👋 Hi, I’m Eleo
+-Link to my porfolio : https://master--fabulous-meringue-f40374.netlify.app/
 - 📫 How to reach me tahindrazaeleo@gmail.com
 
 <!---
